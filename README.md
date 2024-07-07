@@ -70,5 +70,5 @@ For any queries, feel free to reach out to me:
 
 - **Name:** Amit Prasad
 - **Email:** amitprasad10012003@gmail.com
-- **LinkedIn:** [Amit Prasad](https://www.linkedin.com/in/amit-prasad)
+
 
